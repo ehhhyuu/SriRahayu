@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sri Rahayu - Personal Webpage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+        }
+        p {
+            line-height: 1.6;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 0.9em;
+            color: #777;
+        }
+        .footer a {
+            color: #2c3e50;
+            text-decoration: none;
+        }
+        .footer a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Sri Rahayu</h1>
+        <p>Hello! I am Sri Rahayu, a passionate economics graduate with a relentless drive for personal and professional growth. Armed with a solid foundation in economics education, I am fueled by a deep-seated enthusiasm for accounting and finance. I thrive in environments that challenge me to continuously learn and adapt, seeking opportunities to expand my knowledge and skills. I am eager to contribute my energy and expertise to a dynamic team, driving innovation and success in the ever-evolving landscape of finance and economics.</p>
+    </div>
+    <div class="footer">
+        <p>&copy; 2024 Sri Rahayu. All rights reserved. | <a href="mailto:srirhyu10902@gmail.com">Contact Me</a></p>
+    </div>
+</body>
+</html>
